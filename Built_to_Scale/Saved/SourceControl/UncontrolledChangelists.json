@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Fork/GMTK2024/Built_to_Scale/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/Fork/GMTK2024/Built_to_Scale/Content/FirstPerson/Blueprints/BPWall.uasset",
+				"F:/Fork/GMTK2024/Built_to_Scale/Content/FirstPerson/Blueprints/BP_WallForRunning.uasset",
+				"F:/Fork/GMTK2024/Built_to_Scale/Content/FirstPerson/Blueprints/Wall_Material.uasset",
+				"F:/Fork/GMTK2024/Built_to_Scale/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"F:/Fork/GMTK2024/Built_to_Scale/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"F:/Fork/GMTK2024/Built_to_Scale/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/J6/EKF1AEQP5VYOTO5SWKVO5G.uasset",
 				"C:/Users/Elija/Documents/Unreal Projects/GMTK2024/Built_to_Scale/Content/FirstPerson/Blueprints/Test_Block_Obstacle.uasset",
 				"C:/Users/Elija/Documents/Unreal Projects/GMTK2024/Built_to_Scale/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Elija/Documents/Unreal Projects/GMTK2024/Built_to_Scale/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/71/BCZ5N5LOLLCZHXSIWOKJ1Z.uasset",
