@@ -1,0 +1,122 @@
+[+] Containers:
+ |- [+] Container: /Game/FirstPerson/Maps/TestLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0C1E0CCC49D3439B778A29AD4402A6EF BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:0C3B360845AF0C2F5180E4A1BA957A8F BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=2490.000 Z=0.013), Max=(X=940.000 Y=2570.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:0D3B1685461AEEC8B2AB26B88DABEE2E BaseClass:/Game/BlockSpawner/BlockSpawner.BlockSpawner_C NativeClass:/Script/Engine.Actor Name:BlockSpawner_C_UAID_94E23C90702B7E1302_2045660735 Label:BlockSpawner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1000.000 Y=1000.000 Z=500.000), Max=(X=1000.000 Y=1000.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:42A5BF614F500799E563D0A4DEFF7413 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=-3000.000 Z=-50.000), Max=(X=7000.000 Y=7000.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:4315A64B4E475D568291798666802DE3 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:55BE7A6943C78788EF0FE89889DAC997 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1807821956 Label:Test_Block_Obstacle6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1640.000 Y=2040.000 Z=200.000), Max=(X=1740.000 Y=2140.000 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:57BAF9B244B29C4719AF23B49739418D BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:745D24404C862C2F694F45A8A22F4881 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1803785955 Label:Test_Block_Obstacle5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1640.000 Y=2040.000 Z=100.000), Max=(X=1740.000 Y=2140.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7538503A4304A20E47FEA38187F36D70 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1784141952 Label:Test_Block_Obstacle2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1740.000 Y=2040.000 Z=0.000), Max=(X=1840.000 Y=2140.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A30578B34F0BDDC9A56BD8BBB76F2494 BaseClass:/Game/BlockSpawner/BlockBase.BlockBase_C NativeClass:/Script/Engine.Actor Name:BlockBase_C_UAID_94E23C90702B221402_1294605600 Label:BlockBase SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1000.000 Y=1000.000 Z=-220.000), Max=(X=1000.000 Y=1000.000 Z=-220.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A9C6AC21411F186E0DB75294B52D3CC7 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:AD894FB4472E5015580E74BDD7916755 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:AF0D6D004F1015991F437A931EDD2956 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1746093951 Label:Test_Block_Obstacle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1840.000 Y=2040.000 Z=0.000), Max=(X=1940.000 Y=2140.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B527A078422A6EA8449EF9B959EA59EF BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:B92697DD4619A6C26318A0AE34FD0D56 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C2ECB98A455079E3D3283DB415BE2F85 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1792283953 Label:Test_Block_Obstacle3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1740.000 Y=2040.000 Z=100.000), Max=(X=1840.000 Y=2140.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D2E07F644311BB907FAFC79E6EC7C1BD BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1798575954 Label:Test_Block_Obstacle4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1640.000 Y=2040.000 Z=0.000), Max=(X=1740.000 Y=2140.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FDCEA7C24022EA58ADD3138F03A7630D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638370.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638430.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:B92697DD4619A6C26318A0AE34FD0D56 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0C1E0CCC49D3439B778A29AD4402A6EF BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:4315A64B4E475D568291798666802DE3 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:D2E07F644311BB907FAFC79E6EC7C1BD BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1798575954 Label:Test_Block_Obstacle4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1640.000 Y=2040.000 Z=0.000), Max=(X=1740.000 Y=2140.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:7538503A4304A20E47FEA38187F36D70 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1784141952 Label:Test_Block_Obstacle2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1740.000 Y=2040.000 Z=0.000), Max=(X=1840.000 Y=2140.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:AF0D6D004F1015991F437A931EDD2956 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1746093951 Label:Test_Block_Obstacle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1840.000 Y=2040.000 Z=0.000), Max=(X=1940.000 Y=2140.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:0D3B1685461AEEC8B2AB26B88DABEE2E BaseClass:/Game/BlockSpawner/BlockSpawner.BlockSpawner_C NativeClass:/Script/Engine.Actor Name:BlockSpawner_C_UAID_94E23C90702B7E1302_2045660735 Label:BlockSpawner SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1000.000 Y=1000.000 Z=500.000), Max=(X=1000.000 Y=1000.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:A9C6AC21411F186E0DB75294B52D3CC7 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:57BAF9B244B29C4719AF23B49739418D BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:B527A078422A6EA8449EF9B959EA59EF BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:745D24404C862C2F694F45A8A22F4881 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1803785955 Label:Test_Block_Obstacle5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1640.000 Y=2040.000 Z=100.000), Max=(X=1740.000 Y=2140.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:0C3B360845AF0C2F5180E4A1BA957A8F BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=2490.000 Z=0.013), Max=(X=940.000 Y=2570.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:FDCEA7C24022EA58ADD3138F03A7630D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638370.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638430.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:A30578B34F0BDDC9A56BD8BBB76F2494 BaseClass:/Game/BlockSpawner/BlockBase.BlockBase_C NativeClass:/Script/Engine.Actor Name:BlockBase_C_UAID_94E23C90702B221402_1294605600 Label:BlockBase SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1000.000 Y=1000.000 Z=-220.000), Max=(X=1000.000 Y=1000.000 Z=-220.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:C2ECB98A455079E3D3283DB415BE2F85 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1792283953 Label:Test_Block_Obstacle3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1740.000 Y=2040.000 Z=100.000), Max=(X=1840.000 Y=2140.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:55BE7A6943C78788EF0FE89889DAC997 BaseClass:/Game/FirstPerson/Blueprints/Test_Block_Obstacle.Test_Block_Obstacle_C NativeClass:/Script/Engine.Actor Name:Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1807821956 Label:Test_Block_Obstacle6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1640.000 Y=2040.000 Z=200.000), Max=(X=1740.000 Y=2140.000 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:42A5BF614F500799E563D0A4DEFF7413 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3000.000 Y=-3000.000 Z=-50.000), Max=(X=7000.000 Y=7000.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:AD894FB4472E5015580E74BDD7916755 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FirstPerson/Maps/TestLevel
+----------------------------------------------------------------------------------------------------------------
+TestLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 5 
+
+----------------------------------------------------------------------------------------------------------------
+TestLevel - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count   18 (100.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 18
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.WorldDataLayers
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/0/92/VCEYVMMPK5399V4UEJL930
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.SkyAtmosphere_0
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/0/C7/V14KDWO5MVHIJL3NZRXE5Y
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.PostProcessVolume_0
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/3/IE/QJGUPVU2VJPL9VHFIQR784
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1798575954
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/4/L6/4VVK7PU6H58P14NHGBCS99
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1784141952
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/4/M7/P8U6QBR87UGMNUU01IW1Q5
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1746093951
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/4/MQ/O8GBY6P5K3XHHJ7YS5D2NS
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.BlockSpawner_C_UAID_94E23C90702B7E1302_2045660735
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/5/66/AR2BVLQO8HVB3PQEIT0Y53
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.VolumetricCloud_0
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/5/9V/G0P8F67X7UAEXKZEA6O3TZ
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.ExponentialHeightFog_0
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/6/03/99UEA63CFKYKY0FFVAQGH2
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.SkyLight_0
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/9/4R/QVHT9VWZH9WJ59UYPX0D7D
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1803785955
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/9/DJ/6KRDF3S8K2E3V7EB3KHB37
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.PlayerStart_0
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/A/XX/U5QFIJX8IJNU7RELBW8XAZ
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/B/4B/BUN37I0YME7DA6YJRLJAHG
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.BlockBase_C_UAID_94E23C90702B221402_1294605600
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/C/4B/Q9NX0KPVRX4U8WYS7OJGCO
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1792283953
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/D/AJ/LS401CJK8H3HK7ODAP50Q5
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.Test_Block_Obstacle_C_UAID_D8BBC11CE40E2A1302_1807821956
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/E/EF/GLUQZQNRCU2M12KIVQPCL2
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_0
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/E/O5/Y8LR98M216DLEBZ2VG5A9K
+ |   |- Actor Path: /Game/FirstPerson/Maps/TestLevel.TestLevel:PersistentLevel.DirectionalLight_1
+ |   |- Actor Package: /Game/__ExternalActors__/FirstPerson/Maps/TestLevel/E/YC/TF0Q50BDT3HHQA8A2K51NM
+

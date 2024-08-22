@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Built_to_Scale/KetrisGame
+Built_to_Scale/Built_to_Scale.zip
+Built_to_Scale/KetrisGame.zip
+Built_to_Scale/Saved/StagedBuilds
